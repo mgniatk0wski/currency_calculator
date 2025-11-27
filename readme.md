@@ -7,7 +7,7 @@ PL:
 Prosty i szybki przelicznik walut z wykresem kursów z ostatnich 30 dni  
 **Język:** Python 3.13.3  
 **Środowisko:** Visual Studio Code  
-![ConvertIT – zrzut ekranu aplikacji](app-screen.png)
+![ConvertIT – zrzut ekranu aplikacji](images/app-screen.png)
 
 
 ## Cel projektu
@@ -105,7 +105,7 @@ ENG:
 A simple and fast currency converter with a 30-day historical rate chart  
 **Language:** Python 3.13.3  
 **Environment:** Visual Studio Code  
-![ConvertIT – app screenshot](app-screen.png)
+![ConvertIT – app screenshot](images/app-screen.png)
 
 
 ## Project goals
